@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Arjun E
 
-<!--
-**Arjun1525/Arjun1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Sem EEE student at Amrita Vishwa Vidyapeetham  
+⚡ Interested in Analog/Digital Design, Embedded Systems & PCB Design  
+💻 Learning LTspice | C | Git | Arduino | Python  
+🏆 SGPA: 8.9  
+⚽ Football enthusiast
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 📊 **LTspice Simulation Circuits** – [Coming Soon]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- Email: arjun.005e@gmail.com
+- LinkedIn: www.linkedin.com/in/arjun-e-850838329
+
+
+
